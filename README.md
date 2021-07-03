@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ietvee
+- 👋 Hi, I’m Jet Yee, you can call me Jet :D
 - 👀 I’m interested in software development & is a passionate learner 
 - 🌱 I’m currently learning React, Flutter, React Native & more to come
 
