@@ -1,1 +1,3 @@
-
+- 👋 Hi, I’m Jet Yee, you can call me Jet
+- 👀 I’m interested in software development and I'm a passionate learner
+- 🌱 I’m currently learning React, Flutter, React Native & more to come
